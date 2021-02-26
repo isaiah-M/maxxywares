@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "build": "echo flushed!"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/codesandbox-app/static-template/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "http://network-test.tk/",
   "devDependencies": {
     "serve": "^11.2.0"
   }
