@@ -3,8 +3,7 @@
     { "source": "/public/about.html", "destination": "/about" },
     {
       "source": "/public/discord.html",
-      "destination": "/discord",
-      "permanent": false
+      "destination": "/discord"
     }
   ]
 }
