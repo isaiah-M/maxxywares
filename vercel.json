@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    { "source": "/about", "destination": "/public/about.html" },
+    {
+      "source": "/discord",
+      "destination": "/public/discord.html",
+      "permanent": false
+    }
+  ]
+}
